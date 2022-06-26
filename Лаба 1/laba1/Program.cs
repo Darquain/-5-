@@ -48,6 +48,8 @@ namespace Lab1
                 Console.WriteLine("Змiнити кiлькiсть хвилин.");
                 Console.WriteLine("Змiнити кiлькiсть секунд.");
                 Console.WriteLine("Залишити все як є.");
+                Сonsole.WriteLine("Вакарчук");
+                Console.WriteLine("там де ми є.");
 
                 int down = Console.CursorTop;
                 Console.CursorSize = 100;
